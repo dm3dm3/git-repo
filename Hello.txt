@@ -1,4 +1,4 @@
 print ('Hello!!!!')
 print ('Everobody')
 print ('hiHiHI')
-input ()
+input ('Press Enter')
